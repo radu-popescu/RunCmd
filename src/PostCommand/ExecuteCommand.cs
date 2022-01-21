@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 
 
-namespace PostCommand
+namespace PostCommand.API
 {
     public static class ExecuteCommand 
     {

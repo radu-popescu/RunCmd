@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 
-namespace PostCommand.Controllers
+namespace PostCommand.API.Controllers
 {
     [ApiController]
     [Route("api/v1/[controller]")]
