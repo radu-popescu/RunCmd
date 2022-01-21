@@ -9,8 +9,8 @@ namespace PostCommand
 {
     public static class ExecuteCommand 
     {
-        public static string BaseProgram { get; } = "/bin/bash";
-        public static string ExecCmdOption { get; } = "-c";
+        public static string BaseProgram { get; } =  "/bin/bash";  //"cmd.exe";
+        public static string ExecCmdOption { get; } =  "-c";  //"/C";
 
 
 
